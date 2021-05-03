@@ -11,6 +11,6 @@ Learning:
 - Entities
 - Repositories
 - Migrations
-- TypeORM (QueryBuilder)
+- TypeORM
 - SQLite
 - Params: Routes Params, Query Params, Body Params
